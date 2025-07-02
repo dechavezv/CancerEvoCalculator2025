@@ -109,8 +109,7 @@ Type OK if the following window appears
 
 2. Now lets take a look at the lineages that may have experienced an event of positive selection   
 * Using the program called ***figtree*** clik on **open** and specify your phylogeny with tags on the branches. This file is called MYC.BL.tree   
-
-![ ](Images/Figtree/Figtree1.png)     
+![ ](Images/Figtree/figtree1.png)     
 
 * You can use the left panel to increase the tick of the lines with **appereance** and font size of the terminal branches with **Tip display**.    
 
