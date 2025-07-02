@@ -80,9 +80,7 @@ Do the same for the null model.
 Open the program mesquite.  
 Type OK if the following window appears   
 
-<center>
 ![ ](Images/Mesquite/mesquite1.png){width=150px}    
-</center>       
 
 * Open the file called **MYC.aligned.fasta** and chose DNA   
 <center>
