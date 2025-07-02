@@ -89,28 +89,37 @@ Type OK if the following window appears
 
 
 * To specify the open reading frame click on **Matrix** on the top and then chose **Current MAtrix** and then **Show Character List**.  
+
 ![ ](Images/Mesquite/mesquite4.png)     
 
 
-* Then click on the column labaled **codon position** and then chose **set codon position** and **minimize stop codon position** 
+* Then click on the column labaled **codon position** and then chose **set codon position** and **minimize stop codon position**    
+
 ![ ](Images/Mesquite/mesquite5.png)     
 
-* Go back to the matrix tab and clik on display and chose **color matrix cells** and Color **nucleotide by amino acid**   
+* Go back to the matrix tab and clik on display and chose **color matrix cells** and Color **nucleotide by amino acid**     
+
 ![ ](Images/Mesquite/mesquite6.png)     
 
-* You should now see that your alignment is color by amino acids. To get a color chart click on the following icon that is on the bottom.  
+* You should now see that your alignment is color by amino acids. To get a color chart click on the following icon that is on the bottom.    
+
 ![ ](Images/Mesquite/mesquite7.png)     
+
 **Do you find any stop codons ?**   
 
 2. Now lets take a look at the lineages that may have experienced an event of positive selection   
 * Using the program called ***figtree*** clik on **open** and specify your phylogeny with tags on the branches. This file is called MYC.BL.tree   
+
 ![ ](Images/Figtree/Figtree1.png)     
 
-* You can use the left panel to increase the tick of the lines with **appereance** and font size of the terminal branches with **Tip display**.
+* You can use the left panel to increase the tick of the lines with **appereance** and font size of the terminal branches with **Tip display**.    
+
 ![ ](Images/Figtree/Figtree3.png) ![ ](Images/Figtree/Figtree2.png)     
 
-*  Change the color of the branches from black to red for those lineages that have the tag **#1**. You can click on one branch and change its color.   
+*  Change the color of the branches from black to red for those lineages that have the tag **#1**. You can click on one branch and change its color.     
+
 ![ ](Images/Figtree/Figtree4.png)     
+
 * **What are the common names of the species you label?**    
 * **What do they have low cancer prevalence?**    
 
