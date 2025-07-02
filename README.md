@@ -22,7 +22,7 @@ Notice that you have switched from a login node to a computer node.You should se
 2. Get to the workshop directory.   
 Lest check your current directory by typing `pwd`  
 **[dechavez@login4 ~]$ /u/home/d/dechavez**         
-Now, to get into the workshop directory type the following:   
+Now, get into the workshop directory type the following:   
 `cd $SCRATCH/EcoEvoBio-Cancer`   
 If you type `pwd` you should be located at:   
 **/u/scratch/d/dechavez/EcoEvoBio-Cancer**
@@ -31,7 +31,7 @@ If you type `pwd` you should be located at:
 3. To create you personal directory, change the following code with your First name and the first to letters of your last name   
 `mkdir DanielCH`
 
-4. Navigate into your directory. Note: you should type the name of your directory in the following code
+4. Navigate into your directory. Note: you should type the name of your directory in the following code    
 `cd DanielCH`
 
 ### II. The alingment and the phylogenetic gene tree 
