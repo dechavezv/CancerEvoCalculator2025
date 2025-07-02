@@ -107,7 +107,7 @@ Type OK if the following window appears
 ![ ](Images/Figtree/Figtree1.png)     
 
 * You can use the left panel to increase the tick of the lines with **appereance** and font size of the terminal branches with **Tip display**.
-![ ](Images/Figtree/Figtree3.png){width=150px}![ ](Images/Figtree/Figtree2.png)     
+![ ](Images/Figtree/Figtree3.png) ![ ](Images/Figtree/Figtree2.png)     
 
 *  Change the color of the branches from black to red for those lineages that have the tag **#1**. You can click on one branch and change its color.   
 ![ ](Images/Figtree/Figtree4.png)     
