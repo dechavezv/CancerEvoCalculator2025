@@ -1,0 +1,1 @@
+perl -pe 's/Phocoena_phocoena/Phocoena_phocoena#1/;s/Saguinus_imperator/Saguinus_imperator#1/;s/Pithecia_pithecia/Pithecia_pithecia#1/;s/Mus_carolidinus_avellanarius/Mus_carolidinus_avellanarius#1/;s/Choloepus_didactylus/Choloepus_didactylus#1/;s/Dasypus_novemcinctus/Dasypus_novemcinctus#1/g' $1 > ${1%.tree}.BL.tree
