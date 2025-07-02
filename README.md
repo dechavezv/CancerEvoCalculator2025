@@ -83,7 +83,7 @@ Type OK if the following window appears
 ![ ](Images/Mesquite/mesquite1.png | width=150)        
 
 
-<img src="https://www.dropbox.com/scl/fi/21g0xyxmyaxc5lk6sierj/mesquite1.png?rlkey=erjzgm0vleop8xbf1no43iu77&st=pdmtdcvn&dl=0" | width="150">    
+<img src="https://www.dropbox.com/scl/fi/21g0xyxmyaxc5lk6sierj/mesquite1.png?rlkey=erjzgm0vleop8xbf1no43iu77&st=pdmtdcvn&dl=0" />    
 
 
 * Open the file called **MYC.aligned.fasta** and chose DNA   
