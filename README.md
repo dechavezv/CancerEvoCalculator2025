@@ -84,9 +84,9 @@ Type OK if the following window appears
 
 
 * Open the file called **MYC.aligned.fasta** and chose DNA   
-<center>
-![ ](Images/Mesquite/mesquite2.png){width=150px} ![ ](Images/Mesquite/mesquite3.png){width=150px}    
-</center>
+
+![ ](Images/Mesquite/mesquite2.png) ![ ](Images/Mesquite/mesquite3.png)    
+
 
 * To specify the open reading frame click on **Matrix** on the top and then chose **Current MAtrix** and then **Show Character List**.  
 <center>
