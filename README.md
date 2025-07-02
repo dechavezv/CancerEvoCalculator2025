@@ -81,6 +81,7 @@ Open the program mesquite.
 Type OK if the following window appears   
 
 ![ ](Images/Mesquite/mesquite1.png | width=150)        
+<img src="Images/Mesquite/mesquite1.png | width=150" width="150">
 
 * Open the file called **MYC.aligned.fasta** and chose DNA   
 <center>
