@@ -89,59 +89,39 @@ Type OK if the following window appears
 
 
 * To specify the open reading frame click on **Matrix** on the top and then chose **Current MAtrix** and then **Show Character List**.  
-<center>
-![ ](Images/Mesquite/mesquite4.png){width=180px}    
-</center>
+![ ](Images/Mesquite/mesquite4.png)     
+
 
 * Then click on the column labaled **codon position** and then chose **set codon position** and **minimize stop codon position** 
-<center>
-![ ](Images/Mesquite/mesquite5.png){width=180px}     
-</center>    
+![ ](Images/Mesquite/mesquite5.png)     
 
 * Go back to the matrix tab and clik on display and chose **color matrix cells** and Color **nucleotide by amino acid**   
-<center>
-![ ](Images/Mesquite/mesquite6.png){width=180px}     
-</center> 
+![ ](Images/Mesquite/mesquite6.png)     
 
 * You should now see that your alignment is color by amino acids. To get a color chart click on the following icon that is on the bottom.  
-<center>
-![ ](Images/Mesquite/mesquite7.png){width=180px}     
-</center>
+![ ](Images/Mesquite/mesquite7.png)     
 **Do you find any stop codons ?**   
 
 2. Now lets take a look at the lineages that may have experienced an event of positive selection   
 * Using the program called ***figtree*** clik on **open** and specify your phylogeny with tags on the branches. This file is called MYC.BL.tree   
-
-<center>
-![ ](Images/Figtree/Figtree1.png){width=180px}     
-</center>
+![ ](Images/Figtree/Figtree1.png)     
 
 * You can use the left panel to increase the tick of the lines with **appereance** and font size of the terminal branches with **Tip display**.
-<center>
-![ ](Images/Figtree/Figtree3.png){width=150px}![ ](Images/Figtree/Figtree2.png){width=150px}     
-</center>
+![ ](Images/Figtree/Figtree3.png){width=150px}![ ](Images/Figtree/Figtree2.png)     
 
 *  Change the color of the branches from black to red for those lineages that have the tag **#1**. You can click on one branch and change its color.   
-<center>
-![ ](Images/Figtree/Figtree4.png){width=180px}     
-</center>.   
+![ ](Images/Figtree/Figtree4.png)     
 * **What are the common names of the species you label?**    
 * **What do they have low cancer prevalence?**    
 
 3. Place the mutation on a protein model.   
 Now lets investigate were in the protein is our candidate amino acid change. Click on https://swissmodel.expasy.org/  
 * Click on start modeling.  
-<center>
-![ ](Images/Swiss/swiss1.png){width=180px}     
-</center>. 
+![ ](Images/Swiss/swiss1.png)    
 * With your favorite text editor (e.g BBEdit) open the file called **MYC.aa** and copy the sequence. This is the amino acid sequence for the gene we are analazing but for humans
-<center>
-![ ](Images/Swiss/sequence.png){width=180px}     
-</center>. 
+![ ](Images/Swiss/sequence.png)     
 * Then pasted on the empty window and click on search for template. This is way faster than building a model from scratch.  
-<center>
-![ ](Images/Swiss/swiss2.png){width=180px}![ ](Images/Swiss/swiss3.png){width=180px}     
-</center>. 
+![ ](Images/Swiss/swiss2.png) ![ ](Images/Swiss/swiss3.png)    
 
 ### V. Getting your results
 1. Getting likelihoods for the two models.   
