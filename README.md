@@ -3,7 +3,7 @@
 This README file has instructions to run a test for positive selection on candidate genes for cancer resistant species.
 
 ### I. The cluster
-1. `ssh <username>@hoffman2.ucla.edu`
+1. `ssh dechavez@hoffman2.ucla.edu`
 
 * If you are asked to trust this connection type **yes**
 
