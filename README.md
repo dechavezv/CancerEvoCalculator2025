@@ -74,7 +74,7 @@ Do the same for the null model.
 
 ### IV. Understanding the model for positive selection
 1. Open another terminal and clone this repository      
-`git clone <>`
+`git clone https://github.com/dechavezv/CancerEvoCalculator2025.git`
 
 2. Explore your alignment.   
 Open the program mesquite.  
